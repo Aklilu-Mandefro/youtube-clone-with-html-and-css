@@ -1,5 +1,5 @@
 
-# YouTube Clone With HTML and CSS - For HTML and CSS Beginners
+# ✅ YouTube Clone With HTML and CSS - For HTML and CSS Beginners
 
 This is a the UI of YouTube made with HTML and CSS. If you are learning HTML and CSS as a begginner, hope you will get something from this simple project including but not limited to:
 1. CSS nested layouts: flexbox and Grid
