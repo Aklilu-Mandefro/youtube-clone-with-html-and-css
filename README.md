@@ -11,7 +11,7 @@ I strongly believe that the only way to learn coding is by doing. So, if you pra
 
 <!-- PROJECT LOGO -->
 
-## How to run the project
+## 🚀 How to run the project
 
 Running this project is as easy as pie. Just open the `index.html` file in any browser that you have in your device. That is it, nothing less nothing more.
 
