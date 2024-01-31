@@ -18,7 +18,9 @@ Running this project is as easy as pie. Just open the `index.html` file in any b
 ## Screenshot of the project
  <img src="https://i.imgur.com/5ovPKtx.png" alt="youTube">
 
-
+# 🌐 The project Live Demo
+  👉 <a href="https://youtube-clone-by-aklilu-mandefro.netlify.app/">YouTube Clone With HTML and CSS</a><br>
+ 
 ## Contribute to this project
 
 Thank you for browsing this repo. Any contributions you make are **greatly
